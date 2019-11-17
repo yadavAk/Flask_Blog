@@ -4,3 +4,4 @@ flask-sqlalchemy
 flask-bcrypt
 flask-login
 Pillow==6.2.0
+flask-mail==0.9.1
