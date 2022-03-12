@@ -3,5 +3,5 @@ flask-wtf
 flask-sqlalchemy
 flask-bcrypt
 flask-login
-Pillow==6.2.0
+Pillow==9.0.1
 flask-mail==0.9.1
